@@ -1,0 +1,72 @@
+Header Container Div
+  nav Div >
+    div > Home
+    div > Recipes
+    div > Add Recipes (FORM)
+    div >  About
+    div > Contact
+
+Main Image Container Div > (slideshow)
+  H1 Div >
+    p div > Try a random recipe
+    p div > Button
+
+Body Container Div > (preview 4 recipes)
+  Preview Div >
+    Div images >
+      img tag >
+      p tag >
+    Div images >
+      img tag >
+      p tag >
+    Div images >
+      img tag >
+      p tag >
+    Div images >
+      img tag >
+      p tag >
+
+Footer Container Div >
+  Div >
+    p div > legal information
+
+
+RECIPES PAGE
+
+Header Container Div
+  nav Div >
+    div > Home
+    div > Recipes
+    div >  About
+    div > Contact
+
+Recipes Container list Div
+  List Div >
+    Div recipe 1>
+      img div
+      p div (name, time, calories, servings)
+    Div recipe 1>
+      img div
+      p div (name, time, calories, servings)
+    Div recipe 1>
+      img div
+      p div (name, time, calories, servings)
+      ... etc.
+
+RECIPE PAGE
+
+Main Recipe Div >
+  Recipe Div >
+    DIV img
+    p div (info description)
+
+ADD RECIPE PAGE (form)
+  Form Div >
+    div (inputs) >
+      Name input
+      Description input
+      Ingredients input
+      Calories input
+      Servings input
+      Minutes input
+      BUTTON (add)
