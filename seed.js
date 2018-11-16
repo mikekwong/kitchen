@@ -7,7 +7,7 @@ const {
   recipe: Recipe,
   ingredient: Ingredient,
   ingredient_recipe: IngredientRecipe
-} = db
+} = db.models
 
 const seed = async () => {
   try {
